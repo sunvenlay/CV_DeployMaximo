@@ -19,7 +19,7 @@ export default function MaximoCV() {
             <a href="https://www.linkedin.com/in/ventocillalaymemaximo" target="_blank" rel="noreferrer" className="hover:text-yellow-300">
               <Linkedin className="inline-block w-5 h-5" />
             </a>
-            <a href="https://github.com/tuusuario" target="_blank" rel="noreferrer" className="hover:text-yellow-300">
+            <a href="https://github.com/sunvenlay" target="_blank" rel="noreferrer" className="hover:text-yellow-300">
               <Github className="inline-block w-5 h-5" />
             </a>
           </div>
